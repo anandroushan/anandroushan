@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anandroushan
-- 👀 I’m interested in you
-- 🌱 I’m currently learning you
+- 👀 I’m interested in Software Development and Problem Solving
+- 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me ... don't
+- 📫 reach me: anandroushan0707@gmail.com
 
 <!---
 anandroushan/anandroushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
